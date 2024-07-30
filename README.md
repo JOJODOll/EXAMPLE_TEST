@@ -1,5 +1,6 @@
 # EXAMPLE TEST
 - lib ที่ใช้ intl ใช้แปลง format datetime ครับ
+- ใช้ flutter run นะครับ
 
 
 
