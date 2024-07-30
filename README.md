@@ -1,4 +1,9 @@
 # EXAMPLE TEST
+- lib ที่ใช้ intl ใช้แปลง format datetime ครับ
+
+
+
+
 
  <p align="center">
 เป็นรูป ผลลัพท์ของ TEST ข้อที่ 1 และ 2 ครับ  ไฟล์ใน main.dart /lib นะครับ </p>
